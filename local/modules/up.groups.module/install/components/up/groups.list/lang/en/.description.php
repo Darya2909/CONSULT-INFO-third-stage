@@ -1,0 +1,4 @@
+<?
+$MESS["GROUP_LIST_COMPONENT_NAME"] = "Groups list";
+$MESS["GROUP_LIST_COMPONENT_DESCRIPTION"] = "Groups list";
+?>
